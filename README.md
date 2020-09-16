@@ -63,7 +63,7 @@ Implementieren Sie die Windpark-Kommunikationsplattform mit Hilfe des Java Messa
   http://activemq.apache.org/index.html   
   http://www.academictutorials.com/jms/jms-introduction.asp   
   http://docs.oracle.com/javaee/1.4/tutorial/doc/JMS.html#wp84181    
-  http://www.oracle.com/technetwork/systems/middleware/jms-basics-jsp-135286.html  
+  https://www.oracle.com/java/technologies/java-message-service.html   
   http://www.oracle.com/technetwork/articles/java/introjms-1577110.html  
   https://spring.io/guides/gs/messaging-jms  
   https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-messaging.html  
