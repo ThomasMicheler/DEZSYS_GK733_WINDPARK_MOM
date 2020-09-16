@@ -59,7 +59,7 @@ Implementieren Sie die Windpark-Kommunikationsplattform mit Hilfe des Java Messa
 *   Middleware:  
   [Apache ActiveMQ Installationspaket](http://activemq.apache.org/activemq-5153-release.html)  
   [Apache Active MQ 5.14.3 vom Moodle-Server](https://elearning.tgm.ac.at/mod/resource/view.php?id=78648)
-*   Apache ActiveMQ & JMS Tutorial:
+*   Apache ActiveMQ & JMS Tutorial:   
   http://activemq.apache.org/index.html   
   http://www.academictutorials.com/jms/jms-introduction.asp   
   http://docs.oracle.com/javaee/1.4/tutorial/doc/JMS.html#wp84181    
