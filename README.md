@@ -59,12 +59,12 @@ Implementieren Sie die Windpark-Kommunikationsplattform mit Hilfe des Java Messa
 *   Middleware:  
   [Apache ActiveMQ Installationspaket](http://activemq.apache.org/activemq-5153-release.html)  
   [Apache Active MQ 5.14.3 vom Moodle-Server](https://elearning.tgm.ac.at/mod/resource/view.php?id=78648)
- *   Apache ActiveMQ & JMS Tutorial:
-*   http://activemq.apache.org/index.html
-*   http://www.academictutorials.com/jms/jms-introduction.asp
-*   http://docs.oracle.com/javaee/1.4/tutorial/doc/JMS.html#wp84181
-*   http://www.oracle.com/technetwork/systems/middleware/jms-basics-jsp-135286.html
-*   http://www.oracle.com/technetwork/articles/java/introjms-1577110.html
-*   https://spring.io/guides/gs/messaging-jms/
-*   https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-messaging.html
-*   https://dzone.com/articles/using-jms-in-spring-boot-1
+*   Apache ActiveMQ & JMS Tutorial:
+  http://activemq.apache.org/index.html. 
+  http://www.academictutorials.com/jms/jms-introduction.asp. 
+  http://docs.oracle.com/javaee/1.4/tutorial/doc/JMS.html#wp84181. 
+  http://www.oracle.com/technetwork/systems/middleware/jms-basics-jsp-135286.html. 
+  http://www.oracle.com/technetwork/articles/java/introjms-1577110.html. 
+  https://spring.io/guides/gs/messaging-jms/. 
+  https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-messaging.html. 
+  https://dzone.com/articles/using-jms-in-spring-boot-1. 
